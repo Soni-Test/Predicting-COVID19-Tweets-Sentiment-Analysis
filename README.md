@@ -15,6 +15,9 @@ The present prediction analysis is based on the tweets done between the months o
 The present provided dataset consist of (41157, 6) numbers of rows and columns. But our present prediction analysis performed using two columns only of original tweets and sentiments. 5 types of sentiments were provided namely: Extremely Positive, Positive, Neutral, Negative and Extremely Negative. 
 
 
+<b>Team Members</b></br>
+Sonica Sinha </br>
+Mohd Taufique </br>
 
 
 
