@@ -1,4 +1,4 @@
-# **Sentiment Analysis Supervised (ML) Classification Predicting Sentiment of COVID19 Tweets**
+# **Predicting COVID19 Tweets Sentiment Analysis**
 
 
 <p align="center">
