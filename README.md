@@ -83,7 +83,7 @@ COVID-19 originally known as Corona VIrus Disease of 2019, has been declared as 
 
 <b>Team Members</b></br>
 Sonica Sinha </br>
-Mohd Taufique </br>
+[Mohd Taufique](https://github.com/mohdtaufique06) </br>
 
 
 
